@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    
+}
+header, section {
+    max-width: 500px;
+    margin: 20px auto;
+    background: wheat;
+    padding: 20px;
+    border-radius: 8px;
+}
+h1 {
+    text-align: center;
+    color: aquamarine;
+}
+header p {
+    text-align: center;
+    color: #666;
+}
+label {
+    font-weight: bold;
+}
+input[type="date"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+input[type="radio"] {
+    margin-left: 10px;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#akanForm:hover{
+    background-color: cyan;
+    text-decoration: line-through;
+    
+}
+#result {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4CAF50;
+    text-align: end;
+}
+form{
+    background-color: whitesmoke;
+    font-family: cursive;
+    font-size: 16px;
+    justify-content: center;
+    gap: 12px;
+    flex-direction: column;
+}
+form button{
+    background-color: aquamarine;
+    font-size: 15px;
+    font-family: cursive;
+
+}
+
+
+
+
