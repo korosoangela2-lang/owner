@@ -58,6 +58,6 @@ document.getElementById("akanForm").addEventListener("submit", function (e) {
 
     // 7. Display result
     document.getElementById("result").innerHTML =
-        `You were born on <strong>${days[index]}</strong>.<br>
+        `You were born on <strong>${days[index]}</strong>. <br>
         Your Akan name is <strong>${akanName}</strong>.`;
 });
