@@ -21,6 +21,11 @@ To run this project locally:
 
 There are currently no known bugs.
 
+## Terminologies used
+ Index.html
+Styles.css
+README.md
+
 ## License.
 
 This project is licensed under the MIT License.

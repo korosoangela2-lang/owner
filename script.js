@@ -1,20 +1,20 @@
-document.getElementById("akanForm").addEventListener("submit", function (e) {
-    e.preventDefault();
+// // document.getElementById("akanForm").addEventListener("submit", function (e) {
+// //     e.preventDefault();
 
-    // 1. Get user input
-    const birthdate = document.getElementById("birthdate").value;
-    const gender = document.getElementById("gender").value;
+// //     // 1. Get user input
+// //     const birthdate = document.getElementById("birthdate").value;
+// //     const gender = document.getElementById("gender").value;
 
-    // 2. Validate input
-    if (birthdate === "") {
-        alert("Please select your birthdate.");
-        return;
-    }
+// //     // 2. Validate input
+// //     if (birthdate === "") {
+// //         alert("Please select your birthdate.");
+// //         return;
+// //     }
 
-    if (gender === "") {
-        alert("Please select your gender.");
-        return;
-    }
+// //     if (gender === "") {
+// //         alert("Please select your gender.");
+// //         return;
+//     }
 
     // 3. Extract day, month, year
     const date = new Date(birthdate);
