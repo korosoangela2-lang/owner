@@ -22,9 +22,9 @@ To run this project locally:
 There are currently no known bugs.
 
 ## Terminologies used
- Index.html
-Styles.css
-README.md
+ 1. Index.html
+2. Styles.css
+ 3. README.md
 
 ## License.
 
