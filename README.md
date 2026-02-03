@@ -21,7 +21,7 @@ To run this project locally:
 
 There are currently no known bugs.
 
-## License
+## License.
 
 This project is licensed under the MIT License.
 ## copyright
