@@ -24,4 +24,4 @@ There are currently no known bugs.
 
 This project is licensed under the MIT License.
 ## copyright
-@2026 All rights should be preserved.
+@2026.All rights should be preserved.
