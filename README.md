@@ -32,5 +32,5 @@ This project is licensed under the MIT License.
 ## copyright
 @2026.All rights should be preserved.
 # FEATURES
-use of copy right 
-use of html, README.md ,Java script ,use of css
+.use of copy right 
+.use of html, README.md ,Java script ,use of css
